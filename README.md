@@ -2,7 +2,9 @@
 
 
 Website Client: El Ranchito
+
 School: Chester County High School
+
 Group Members: Nathaniel Anderson, Myles Carnell, and Vernon Tucker
 
 Each member had a job just for them tailored for their skills; Nathaniel (Me) did most of the coding that required HTML, CSS, or JS. 
